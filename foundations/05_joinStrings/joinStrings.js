@@ -8,10 +8,15 @@
 */
 
 // Add your code right below, good luck!
+firstName = "Carlos";
+lastName = "Stevenson";
+thisYear = 1965;
+birthYear = 1947;
+age = 18;
 
+fullName = firstName +" "+ lastName ;
 
-
-
+greeting = `Hello! My name is ${fullName} and I am ${age} years old.`
 
 // Do not change this
 module.exports = {
